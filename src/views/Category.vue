@@ -1,12 +1,13 @@
 <template>
-  <h1>我是首页</h1>
+  <h1>我是分类</h1>
 </template>
 
 <script>
 export default {
-  name: "Home",
-};
+
+}
 </script>
 
 <style>
+
 </style>
